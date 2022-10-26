@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **React-Native.**
 
 - 👯 I’m looking to collaborate on [My-portfolio](https://my-portfolio-322c8.web.app/)
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-322c8.web.app/](https://my-portfolio-322c8.web.app/)
 
-- 💬 Ask me about **HTML,CSS,JavaScripte And React**
+- 💬 Ask me about **HTML,CSS,JavaScripte And React.**
 
 - 📫 How to reach me **const6545@gmail.com**
 
