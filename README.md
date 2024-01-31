@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-322c8.web.app/](https://my-portfolio-322c8.web.app/)
 
-- 💬 Ask me about **HTML,CSS,JavaScripte And React.**
+- 💬 Ask me about **HTML,CSS,JavaScripte And React, React-Native, Ms-office-Add-in Ms-office-Powerpoint-Add-in-React,Redux,FluentUi.**
 
 - 📫 How to reach me **fashihussain01@gmail.com**
 
